@@ -46,7 +46,7 @@ npm -v
    npm start
    ```
 
-   Once you run this command, the application will start, and it will be accessible at `http://localhost:3000` in your preferred web browser.
+   Once you run this command, the application will start, and it will be accessible at `http://localhost:3000` in your preferred web browser. If it's not show books then try to search a book after that all books will auto show.
 
 5. Visit the application at `http://localhost:3000` in your browser to view the app!
 
@@ -56,13 +56,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-For any queries or feedback, reach out to [sggopi2002@gmail.com](mailto:sggopi2002@gmail.com).
+For any queries, reach out to [singhdikshant200@gmai.com](mailto:singhdikshant200@gmai.com).
 
 ## Known Issues
 
 - There are currently no known issues. If you encounter any, please report them.
 
-## Future Enhancements
-
-- Implementing user accounts for more personalized bookshelves.
-- Enhancing search capabilities with filters and sorts.
