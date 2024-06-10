@@ -56,7 +56,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-For any queries, reach out to [singhdikshant200@gmai.com](mailto:singhdikshant200@gmai.com).
+For any queries, reach out to [singhdikshant200@gmail.com](mailto:singhdikshant200@gmail.com).
 
 ## Known Issues
 
